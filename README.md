@@ -7,6 +7,7 @@ Python networking labs for IT automation - Phase 1
 - Lab 01 - Device Inventory Basics | variables, lists, loops, enumerate
 - Lab 02 - Device Inventory using Dictionaries | dictionaries, list of dicts, enumerate, f-strings
 - Lab 03 - Store Device Info using Dictionary Methods | keys(), values(), items(), loops, f-strings
+- Lab 04 - Parse IP Addresses | strings, split(), len(), f-strings, loops
 
 ## Concepts covered
 - Variables, lists, loops
