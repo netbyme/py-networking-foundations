@@ -1,21 +1,17 @@
 # py-networking-foundations
 
-Python networking labs for IT automation - Phase 1
+Python labs I built to learn network automation from scratch.
+Each lab uses real networking concepts like IP parsing, validation and device inventory.
+Part of my path toward CCNA and Cisco DevNet certification.
 
 ## Labs
 
-- Lab 01 - Device Inventory Basics | variables, lists, loops, enumerate
-- Lab 02 - Device Inventory using Dictionaries | dictionaries, list of dicts, enumerate, f-strings
-- Lab 03 - Store Device Info using Dictionary Methods | keys(), values(), items(), loops, f-strings
-- Lab 04 - Parse IP Addresses | strings, split(), len(), f-strings, loops
-- Lab 05 - Validate IP Format | if/else, conditions, len(), split(), isdigit(), all()
-
-## Concepts covered
-- Variables, lists, loops
-- Dictionaries and list of dictionaries
-- enumerate() with start index
-- f-strings for clean output
-- Dictionary methods: keys(), values(), items()
+- Lab 01 - Device Inventory Basics
+- Lab 02 - Device Inventory using Dictionaries
+- Lab 03 - Dictionary Methods
+- Lab 04 - Parse IP Addresses
+- Lab 05 - Validate IP Format
+- Lab 06 - Classify IP Ranges
 
 ## Tools
 - Python 3.12
@@ -23,4 +19,4 @@ Python networking labs for IT automation - Phase 1
 - VS Code
 
 ## Author
-m-hammouch
+Mohammed Hammouch — Casablanca, Morocco
