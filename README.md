@@ -12,6 +12,16 @@ Part of my path toward CCNA and Cisco DevNet certification.
 - Lab 04 - Parse IP Addresses
 - Lab 05 - Validate IP Format
 - Lab 06 - Classify IP Ranges
+- Lab 07 - Reusable Network Functions
+- Lab 08 - Match IPs to Hostnames
+- Lab 09 - Read and Write Config Files
+
+## Skills built
+- Python fundamentals — variables, lists, loops, dictionaries
+- IP parsing, validation and classification logic
+- Writing reusable functions for network tasks
+- Automating device inventory with zip() and counters
+- Reading and writing network config files
 
 ## Tools
 - Python 3.12
